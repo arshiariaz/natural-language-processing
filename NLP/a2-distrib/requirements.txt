@@ -1,7 +1,0 @@
-numpy
-nltk
-spacy
-torch
-scipy
-matplotlib
-torchvision
